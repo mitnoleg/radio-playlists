@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=2000
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/main_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 192K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/main_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 192K stream#3 MOSCOW
+http://extrabeers.com:8000/main_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 128K stream#1 MOSCOW
+http://16bitfm.com:8000/main_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 128K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/main_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - PRObeat Channel 128K stream#3 MOSCOW
+http://extrabeers.com:8000/main_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/cafe_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 192K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/cafe_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 192K stream#3 MOSCOW
+http://extrabeers.com:8000/cafe_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 192K stream#4 MOSCOW
+http://radio.2kom.ru:8000/16bit.Cafe.Channel
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 128K stream#1 MOSCOW
+http://16bitfm.com:8000/cafe_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 128K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/cafe_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 128K stream#3 MOSCOW
+http://extrabeers.com:8000/cafe_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 32K stream#1 MOSCOW
+http://16bitfm.com:8000/cafe_aac_32
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 32K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/cafe_aac_32
+#EXTINF:-1,16Bit FM - 16Bit FM - CAFE Channel 32K stream#3 MOSCOW
+http://extrabeers.com:8000/cafe_aac_32
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/idea_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 192K stream#2 MOSCOW
+http://stream.16bitfm.com:8000/idea_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 192K stream#3 MOSCOW
+http://extrabeers.com:8000/idea_mp3_192
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 128K stream#1 MOSCOW
+http://16bitfm.com:8000/idea_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 128K stream#2 MOSCOW
+http://stream.16bibfm.com:8000/idea_mp3_128
+#EXTINF:-1,16Bit FM - 16Bit FM - I.D.E.A. Channel 128K stream#3 MOSCOW
+http://extrabeers.com:8000/idea_mp3_128

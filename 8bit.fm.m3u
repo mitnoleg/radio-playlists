@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=2000
+#EXTINF:-1,8bit.fm - 8bit.fm - Main
+http://8bit.fm:8000/live
+#EXTINF:-1,8bit.fm - 8bit.fm - AY
+http://8bit.fm:8000/ay

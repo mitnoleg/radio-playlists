@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=2000
+#EXTINF:-1,Chillstep.info - Chillstep.info - ogg
+http://chillstep.info:1984/listen.ogg
+#EXTINF:-1,Chillstep.info - Chillstep.info - mp3
+http://chillstep.info:1984/listen.mp3

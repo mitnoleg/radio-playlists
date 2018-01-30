@@ -1,0 +1,346 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=2000
+#EXTINF:-1,Radio Record - Radio Record - mp3_320
+http://air.radiorecord.ru:805/rr_320
+#EXTINF:-1,Radio Record - Radio Record - mp3_128
+http://air.radiorecord.ru:805/rr_128
+#EXTINF:-1,Future House - Future House - mp3_320
+http://air.radiorecord.ru:805/fut_320
+#EXTINF:-1,Future House - Future House - mp3_128
+http://air.radiorecord.ru:805/fut_128
+#EXTINF:-1,Future House - Future House - mp3_64
+http://air.radiorecord.ru:805/fut_64
+#EXTINF:-1,Future House - Future House - acc_64
+http://air.radiorecord.ru:805/fut_aac_64
+#EXTINF:-1,Future House - Future House - acc_32
+http://air.radiorecord.ru:805/fut_aac
+#EXTINF:-1,EDM - EDM - mp3_320
+http://air.radiorecord.ru:805/club_320
+#EXTINF:-1,EDM - EDM - mp3_128
+http://air.radiorecord.ru:805/club_128
+#EXTINF:-1,EDM - EDM - mp3_64
+http://air.radiorecord.ru:805/club_64
+#EXTINF:-1,EDM - EDM - acc_64
+http://air.radiorecord.ru:805/club_aac_64
+#EXTINF:-1,EDM - EDM - acc_32
+http://air.radiorecord.ru:805/club_aac
+#EXTINF:-1,Record Megamix - Record Megamix - mp3_320
+http://air.radiorecord.ru:805/mix_320
+#EXTINF:-1,Record Megamix - Record Megamix - mp3_128
+http://air.radiorecord.ru:805/mix_128
+#EXTINF:-1,Record Megamix - Record Megamix - mp3_64
+http://air.radiorecord.ru:805/mix_64
+#EXTINF:-1,Record Megamix - Record Megamix - acc_64
+http://air.radiorecord.ru:805/mix_aac_64
+#EXTINF:-1,Record Megamix - Record Megamix - acc_32
+http://air.radiorecord.ru:805/mix_aac
+#EXTINF:-1,Gold - Gold - mp3_320
+http://air.radiorecord.ru:805/gold_320
+#EXTINF:-1,Gold - Gold - mp3_128
+http://air.radiorecord.ru:805/gold_128
+#EXTINF:-1,Gold - Gold - mp3_64
+http://air.radiorecord.ru:805/gold_64
+#EXTINF:-1,Gold - Gold - acc_64
+http://air.radiorecord.ru:805/gold_aac_64
+#EXTINF:-1,Gold - Gold - acc_32
+http://air.radiorecord.ru:805/gold_aac
+#EXTINF:-1,Trancemission Radio - Trancemission Radio - mp3_320
+http://air.radiorecord.ru:805/tm_320
+#EXTINF:-1,Trancemission Radio - Trancemission Radio - mp3_128
+http://air.radiorecord.ru:805/tm_128
+#EXTINF:-1,Trancemission Radio - Trancemission Radio - mp3_64
+http://air.radiorecord.ru:805/tm_64
+#EXTINF:-1,Trancemission Radio - Trancemission Radio - acc_64
+http://air.radiorecord.ru:805/tm_aac_64
+#EXTINF:-1,Trancemission Radio - Trancemission Radio - acc_32
+http://air.radiorecord.ru:805/tm_aac
+#EXTINF:-1,Pirate Station - Pirate Station - mp3_320
+http://air.radiorecord.ru:805/ps_320
+#EXTINF:-1,Pirate Station - Pirate Station - mp3_128
+http://air.radiorecord.ru:805/ps_128
+#EXTINF:-1,Pirate Station - Pirate Station - mp3_64
+http://air.radiorecord.ru:805/ps_64
+#EXTINF:-1,Pirate Station - Pirate Station - acc_64
+http://air.radiorecord.ru:805/ps_aac_64
+#EXTINF:-1,Pirate Station - Pirate Station - acc_32
+http://air.radiorecord.ru:805/ps_aac
+#EXTINF:-1,Record Deep - Record Deep - mp3_320
+http://air.radiorecord.ru:805/deep_320
+#EXTINF:-1,Record Deep - Record Deep - mp3_128
+http://air.radiorecord.ru:805/deep_128
+#EXTINF:-1,Record Deep - Record Deep - mp3_64
+http://air.radiorecord.ru:805/deep_64
+#EXTINF:-1,Record Deep - Record Deep - acc_64
+http://air.radiorecord.ru:805/deep_aac_64
+#EXTINF:-1,Record Deep - Record Deep - acc_32
+http://air.radiorecord.ru:805/deep_aac
+#EXTINF:-1,Vip House - Vip House - mp3_320
+http://air.radiorecord.ru:805/vip_320
+#EXTINF:-1,Vip House - Vip House - mp3_128
+http://air.radiorecord.ru:805/vip_128
+#EXTINF:-1,Vip House - Vip House - mp3_64
+http://air.radiorecord.ru:805/vip_64
+#EXTINF:-1,Vip House - Vip House - acc_64
+http://air.radiorecord.ru:805/vip_aac_64
+#EXTINF:-1,Vip House - Vip House - acc_32
+http://air.radiorecord.ru:805/vip_aac
+#EXTINF:-1,Minimal / Tech - Minimal / Tech - mp3_320
+http://air.radiorecord.ru:805/mini_320
+#EXTINF:-1,Minimal / Tech - Minimal / Tech - mp3_128
+http://air.radiorecord.ru:805/mini_128
+#EXTINF:-1,Minimal / Tech - Minimal / Tech - mp3_64
+http://air.radiorecord.ru:805/mini_64
+#EXTINF:-1,Minimal / Tech - Minimal / Tech - acc_64
+http://air.radiorecord.ru:805/mini_aac_64
+#EXTINF:-1,Minimal / Tech - Minimal / Tech - acc_32
+http://air.radiorecord.ru:805/mini_aac
+#EXTINF:-1,Tropical - Tropical - mp3_320
+http://air.radiorecord.ru:805/trop_320
+#EXTINF:-1,Tropical - Tropical - mp3_128
+http://air.radiorecord.ru:805/trop_128
+#EXTINF:-1,Tropical - Tropical - mp3_64
+http://air.radiorecord.ru:805/trop_64
+#EXTINF:-1,Tropical - Tropical - acc_64
+http://air.radiorecord.ru:805/trop_aac_64
+#EXTINF:-1,Tropical - Tropical - acc_32
+http://air.radiorecord.ru:805/trop_aac
+#EXTINF:-1,Record Chill-Out - Record Chill-Out - mp3_320
+http://air.radiorecord.ru:805/chil_320
+#EXTINF:-1,Record Chill-Out - Record Chill-Out - mp3_128
+http://air.radiorecord.ru:805/chil_128
+#EXTINF:-1,Record Chill-Out - Record Chill-Out - mp3_64
+http://air.radiorecord.ru:805/chil_64
+#EXTINF:-1,Record Chill-Out - Record Chill-Out - acc_64
+http://air.radiorecord.ru:805/chil_aac_64
+#EXTINF:-1,Record Chill-Out - Record Chill-Out - acc_32
+http://air.radiorecord.ru:805/chil_aac
+#EXTINF:-1,Russian Mix - Russian Mix - mp3_320
+http://air.radiorecord.ru:805/rus_320
+#EXTINF:-1,Russian Mix - Russian Mix - mp3_128
+http://air.radiorecord.ru:805/rus_128
+#EXTINF:-1,Russian Mix - Russian Mix - mp3_64
+http://air.radiorecord.ru:805/rus_64
+#EXTINF:-1,Russian Mix - Russian Mix - acc_64
+http://air.radiorecord.ru:805/rus_aac_64
+#EXTINF:-1,Russian Mix - Russian Mix - acc_32
+http://air.radiorecord.ru:805/rus_aac
+#EXTINF:-1,Супердискотека 90-х - Супердискотека 90-х - mp3_320
+http://air.radiorecord.ru:805/sd90_320
+#EXTINF:-1,Супердискотека 90-х - Супердискотека 90-х - mp3_128
+http://air.radiorecord.ru:805/sd90_128
+#EXTINF:-1,Супердискотека 90-х - Супердискотека 90-х - mp3_64
+http://air.radiorecord.ru:805/sd90_64
+#EXTINF:-1,Супердискотека 90-х - Супердискотека 90-х - acc_64
+http://air.radiorecord.ru:805/sd90_aac_64
+#EXTINF:-1,Супердискотека 90-х - Супердискотека 90-х - acc_32
+http://air.radiorecord.ru:805/sd90_aac
+#EXTINF:-1,Future Bass - Future Bass - mp3_320
+http://air.radiorecord.ru:805/fbass_320
+#EXTINF:-1,Future Bass - Future Bass - mp3_128
+http://air.radiorecord.ru:805/fbass_128
+#EXTINF:-1,Future Bass - Future Bass - mp3_64
+http://air.radiorecord.ru:805/fbass_64
+#EXTINF:-1,Future Bass - Future Bass - acc_64
+http://air.radiorecord.ru:805/fbass_aac_64
+#EXTINF:-1,Future Bass - Future Bass - acc_32
+http://air.radiorecord.ru:805/fbass_aac
+#EXTINF:-1,Remix - Remix - mp3_320
+http://air.radiorecord.ru:805/rmx_320
+#EXTINF:-1,Remix - Remix - mp3_128
+http://air.radiorecord.ru:805/rmx_128
+#EXTINF:-1,Remix - Remix - mp3_64
+http://air.radiorecord.ru:805/rmx_64
+#EXTINF:-1,Remix - Remix - acc_64
+http://air.radiorecord.ru:805/rmx_aac_64
+#EXTINF:-1,Remix - Remix - acc_32
+http://air.radiorecord.ru:805/rmx_aac
+#EXTINF:-1,Гастарбайтер FM - Гастарбайтер FM - mp3_320
+http://air.radiorecord.ru:805/gast_320
+#EXTINF:-1,Гастарбайтер FM - Гастарбайтер FM - mp3_128
+http://air.radiorecord.ru:805/gast_128
+#EXTINF:-1,Гастарбайтер FM - Гастарбайтер FM - mp3_64
+http://air.radiorecord.ru:805/gast_64
+#EXTINF:-1,Гастарбайтер FM - Гастарбайтер FM - acc_64
+http://air.radiorecord.ru:805/gast_aac_64
+#EXTINF:-1,Гастарбайтер FM - Гастарбайтер FM - acc_32
+http://air.radiorecord.ru:805/gast_aac
+#EXTINF:-1,Hard Bass - Hard Bass - mp3_320
+http://air.radiorecord.ru:805/hbass_320
+#EXTINF:-1,Hard Bass - Hard Bass - mp3_128
+http://air.radiorecord.ru:805/hbass_128
+#EXTINF:-1,Hard Bass - Hard Bass - mp3_64
+http://air.radiorecord.ru:805/hbass_64
+#EXTINF:-1,Hard Bass - Hard Bass - acc_64
+http://air.radiorecord.ru:805/hbass_aac_64
+#EXTINF:-1,Hard Bass - Hard Bass - acc_32
+http://air.radiorecord.ru:805/hbass_aac
+#EXTINF:-1,Аншлаг FM - Аншлаг FM - mp3_320
+http://air.radiorecord.ru:805/ansh_320
+#EXTINF:-1,Аншлаг FM - Аншлаг FM - mp3_128
+http://air.radiorecord.ru:805/ansh_128
+#EXTINF:-1,Аншлаг FM - Аншлаг FM - mp3_64
+http://air.radiorecord.ru:805/ansh_64
+#EXTINF:-1,Аншлаг FM - Аншлаг FM - acc_64
+http://air.radiorecord.ru:805/ansh_aac_64
+#EXTINF:-1,Аншлаг FM - Аншлаг FM - acc_32
+http://air.radiorecord.ru:805/ansh_aac
+#EXTINF:-1,Ibiza - Ibiza - mp3_320
+http://air.radiorecord.ru:805/ibiza_320
+#EXTINF:-1,Ibiza - Ibiza - mp3_128
+http://air.radiorecord.ru:805/ibiza_128
+#EXTINF:-1,Ibiza - Ibiza - mp3_64
+http://air.radiorecord.ru:805/ibiza_64
+#EXTINF:-1,Ibiza - Ibiza - acc_64
+http://air.radiorecord.ru:805/ibiza_aac_64
+#EXTINF:-1,Ibiza - Ibiza - acc_32
+http://air.radiorecord.ru:805/ibiza_aac
+#EXTINF:-1,GOA/PSY - GOA/PSY - mp3_320
+http://air.radiorecord.ru:805/goa_320
+#EXTINF:-1,GOA/PSY - GOA/PSY - mp3_128
+http://air.radiorecord.ru:805/goa_128
+#EXTINF:-1,GOA/PSY - GOA/PSY - mp3_64
+http://air.radiorecord.ru:805/goa_64
+#EXTINF:-1,GOA/PSY - GOA/PSY - acc_64
+http://air.radiorecord.ru:805/goa_aac_64
+#EXTINF:-1,GOA/PSY - GOA/PSY - acc_32
+http://air.radiorecord.ru:805/goa_aac
+#EXTINF:-1,Black - Black - mp3_320
+http://air.radiorecord.ru:805/yo_320
+#EXTINF:-1,Black - Black - mp3_128
+http://air.radiorecord.ru:805/yo_128
+#EXTINF:-1,Black - Black - mp3_64
+http://air.radiorecord.ru:805/yo_64
+#EXTINF:-1,Black - Black - acc_64
+http://air.radiorecord.ru:805/yo_aac_64
+#EXTINF:-1,Black - Black - acc_32
+http://air.radiorecord.ru:805/yo_aac
+#EXTINF:-1,Record Breaks - Record Breaks - mp3_320
+http://air.radiorecord.ru:805/brks_320
+#EXTINF:-1,Record Breaks - Record Breaks - mp3_128
+http://air.radiorecord.ru:805/brks_128
+#EXTINF:-1,Record Breaks - Record Breaks - mp3_64
+http://air.radiorecord.ru:805/brks_64
+#EXTINF:-1,Record Breaks - Record Breaks - acc_64
+http://air.radiorecord.ru:805/brks_aac_64
+#EXTINF:-1,Record Breaks - Record Breaks - acc_32
+http://air.radiorecord.ru:805/brks_aac
+#EXTINF:-1,Old School - Old School - mp3_320
+http://air.radiorecord.ru:805/pump_320
+#EXTINF:-1,Old School - Old School - mp3_128
+http://air.radiorecord.ru:805/pump_128
+#EXTINF:-1,Old School - Old School - mp3_64
+http://air.radiorecord.ru:805/pump_64
+#EXTINF:-1,Old School - Old School - acc_64
+http://air.radiorecord.ru:805/pump_aac_64
+#EXTINF:-1,Old School - Old School - acc_32
+http://air.radiorecord.ru:805/pump_aac
+#EXTINF:-1,Record Techno - Record Techno - mp3_320
+http://air.radiorecord.ru:805/techno_320
+#EXTINF:-1,Record Techno - Record Techno - mp3_128
+http://air.radiorecord.ru:805/techno_128
+#EXTINF:-1,Record Techno - Record Techno - mp3_64
+http://air.radiorecord.ru:805/techno_64
+#EXTINF:-1,Record Techno - Record Techno - acc_64
+http://air.radiorecord.ru:805/techno_aac_64
+#EXTINF:-1,Record Techno - Record Techno - acc_32
+http://air.radiorecord.ru:805/techno_aac
+#EXTINF:-1,Record Trap - Record Trap - mp3_320
+http://air.radiorecord.ru:805/trap_320
+#EXTINF:-1,Record Trap - Record Trap - mp3_128
+http://air.radiorecord.ru:805/trap_128
+#EXTINF:-1,Record Trap - Record Trap - mp3_64
+http://air.radiorecord.ru:805/trap_64
+#EXTINF:-1,Record Trap - Record Trap - acc_64
+http://air.radiorecord.ru:805/trap_aac_64
+#EXTINF:-1,Record Trap - Record Trap - acc_32
+http://air.radiorecord.ru:805/trap_aac
+#EXTINF:-1,Record Dubstep - Record Dubstep - mp3_320
+http://air.radiorecord.ru:805/dub_320
+#EXTINF:-1,Record Dubstep - Record Dubstep - mp3_128
+http://air.radiorecord.ru:805/dub_128
+#EXTINF:-1,Record Dubstep - Record Dubstep - mp3_64
+http://air.radiorecord.ru:805/dub_64
+#EXTINF:-1,Record Dubstep - Record Dubstep - acc_64
+http://air.radiorecord.ru:805/dub_aac_64
+#EXTINF:-1,Record Dubstep - Record Dubstep - acc_32
+http://air.radiorecord.ru:805/dub_aac
+#EXTINF:-1,Record Hardstyle - Record Hardstyle - mp3_320
+http://air.radiorecord.ru:805/teo_320
+#EXTINF:-1,Record Hardstyle - Record Hardstyle - mp3_128
+http://air.radiorecord.ru:805/teo_128
+#EXTINF:-1,Record Hardstyle - Record Hardstyle - mp3_64
+http://air.radiorecord.ru:805/teo_64
+#EXTINF:-1,Record Hardstyle - Record Hardstyle - acc_64
+http://air.radiorecord.ru:805/teo_aac_64
+#EXTINF:-1,Record Hardstyle - Record Hardstyle - acc_32
+http://air.radiorecord.ru:805/teo_aac
+#EXTINF:-1,Rave FM - Rave FM - mp3_320
+http://air.radiorecord.ru:805/rave_320
+#EXTINF:-1,Rave FM - Rave FM - mp3_128
+http://air.radiorecord.ru:805/rave_128
+#EXTINF:-1,Rave FM - Rave FM - mp3_64
+http://air.radiorecord.ru:805/rave_64
+#EXTINF:-1,Rave FM - Rave FM - acc_64
+http://air.radiorecord.ru:805/rave_aac_64
+#EXTINF:-1,Rave FM - Rave FM - acc_32
+http://air.radiorecord.ru:805/rave_aac
+#EXTINF:-1,Record Dancecore - Record Dancecore - mp3_320
+http://air.radiorecord.ru:805/dc_320
+#EXTINF:-1,Record Dancecore - Record Dancecore - mp3_128
+http://air.radiorecord.ru:805/dc_128
+#EXTINF:-1,Record Dancecore - Record Dancecore - mp3_64
+http://air.radiorecord.ru:805/dc_64
+#EXTINF:-1,Record Dancecore - Record Dancecore - acc_64
+http://air.radiorecord.ru:805/dc_aac_64
+#EXTINF:-1,Record Dancecore - Record Dancecore - acc_32
+http://air.radiorecord.ru:805/dc_aac
+#EXTINF:-1,Нафталин FM - Нафталин FM - mp3_320
+http://air.radiorecord.ru:805/naft_320
+#EXTINF:-1,Нафталин FM - Нафталин FM - mp3_128
+http://air.radiorecord.ru:805/naft_128
+#EXTINF:-1,Нафталин FM - Нафталин FM - mp3_64
+http://air.radiorecord.ru:805/naft_64
+#EXTINF:-1,Нафталин FM - Нафталин FM - acc_64
+http://air.radiorecord.ru:805/naft_aac_64
+#EXTINF:-1,Нафталин FM - Нафталин FM - acc_32
+http://air.radiorecord.ru:805/naft_aac
+#EXTINF:-1,Record Rock - Record Rock - mp3_320
+http://air.radiorecord.ru:805/rock_320
+#EXTINF:-1,Record Rock - Record Rock - mp3_128
+http://air.radiorecord.ru:805/rock_128
+#EXTINF:-1,Record Rock - Record Rock - mp3_64
+http://air.radiorecord.ru:805/rock_64
+#EXTINF:-1,Record Rock - Record Rock - acc_64
+http://air.radiorecord.ru:805/rock_aac_64
+#EXTINF:-1,Record Rock - Record Rock - acc_32
+http://air.radiorecord.ru:805/rock_aac
+#EXTINF:-1,Медляк FM - Медляк FM - mp3_320
+http://air.radiorecord.ru:805/mdl_320
+#EXTINF:-1,Медляк FM - Медляк FM - mp3_128
+http://air.radiorecord.ru:805/mdl_128
+#EXTINF:-1,Медляк FM - Медляк FM - mp3_64
+http://air.radiorecord.ru:805/mdl_64
+#EXTINF:-1,Медляк FM - Медляк FM - acc_64
+http://air.radiorecord.ru:805/mdl_aac_64
+#EXTINF:-1,Медляк FM - Медляк FM - acc_32
+http://air.radiorecord.ru:805/mdl_aac
+#EXTINF:-1,Гоп FM - Гоп FM - mp3_320
+http://air.radiorecord.ru:805/gop_320
+#EXTINF:-1,Гоп FM - Гоп FM - mp3_128
+http://air.radiorecord.ru:805/gop_128
+#EXTINF:-1,Гоп FM - Гоп FM - mp3_64
+http://air.radiorecord.ru:805/gop_64
+#EXTINF:-1,Гоп FM - Гоп FM - acc_64
+http://air.radiorecord.ru:805/gop_aac_64
+#EXTINF:-1,Гоп FM - Гоп FM - acc_32
+http://air.radiorecord.ru:805/gop_aac
+#EXTINF:-1,Маятник Фуко - Маятник Фуко - mp3_320
+http://air.radiorecord.ru:805/mf_320
+#EXTINF:-1,Маятник Фуко - Маятник Фуко - mp3_128
+http://air.radiorecord.ru:805/mf_128
+#EXTINF:-1,Маятник Фуко - Маятник Фуко - mp3_64
+http://air.radiorecord.ru:805/mf_64
+#EXTINF:-1,Маятник Фуко - Маятник Фуко - acc_64
+http://air.radiorecord.ru:805/mf_aac_64
+#EXTINF:-1,Маятник Фуко - Маятник Фуко - acc_32
+http://air.radiorecord.ru:805/mf_aac
